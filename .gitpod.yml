@@ -1,0 +1,27 @@
+image:
+    file: .gitpod.Dockerfile
+
+
+tasks:
+    - name: Node JS 16
+      init: |
+            touch /tmp/.npm-lock
+            sudo apt-get -y install curl software-properties-common 
+            curl -sL https://deb.nodesource.com/setup_16.x | sudo bash - 
+            sudo apt-get -y install nodejs 
+            echo "NodeJS 16 installed, check the version"
+            npm i -g @codedoc/cli
+            rm /tmp/.npm-lock
+            exit
+    - name: Dependencies
+      init: sleep 1 && while [ -f /tmp/.npm-lock ]; do sleep 1; done
+      command: |
+               touch /tmp/.dep-lock
+               codedoc install
+               rm /tmp/.dep-lock
+               exit
+    - name: Server
+      init: sleep 1 && while [ -f /tmp/.npm-lock ]; do sleep 1; done
+      command: codedoc serve
+    
+      
