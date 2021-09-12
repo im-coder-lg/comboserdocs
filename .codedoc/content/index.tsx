@@ -10,7 +10,6 @@ import { Footer } from './footer';
 export function content(_content: HTMLElement, toc: HTMLElement, renderer: RendererLike<any, any>, file: File<string>) {
   return (
     <Page title={config.page.title.extractor(_content, config, file)}
-    
           favicon={config.page.favicon}
           meta={<Meta {...config.page.meta}/>}
           fonts={<Fonts {...config.page.fonts}/>}

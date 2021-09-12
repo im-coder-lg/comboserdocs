@@ -1,5 +1,7 @@
 [Home](/)
-[Setup guide for Windows](/docs/setup-windows)
+<!-- [Markdown Cheat Sheet](/docs/cheat-sheet)
+[Code Features](/docs/code-features) -->
+[Setup on Windows](/docs/win-setup)
 
 <br><br>
 
