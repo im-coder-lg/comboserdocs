@@ -18,7 +18,7 @@ export const config = /*#__PURE__*/configuration({
     title: {
       base: 'Comboser Docs'                        // --> the base title of your doc pages
     },
-    favicon: 'favicon.ico'
+    favicon: 'assets/favicon.ico'
   },
   misc: {
     github: {
@@ -30,7 +30,7 @@ export const config = /*#__PURE__*/configuration({
       standardIcon: false,        // --> whether to use the GitHub icon on the GitHub button or use an action specific icon
     },
     gitter: {
-      room: 'combosercommunty/community'
+      room: 'combosercommunity/community'
    }
   },
 });
