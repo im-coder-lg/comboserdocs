@@ -15,7 +15,7 @@ jobs:
           # install .codedoc dependencies
           (cd .codedoc && npm install)
           # install codedoc
-          npm install @codedoc/cli && codedoc install
+          npm install @codedoc/cli
           # build repo
           (PATH=$(npm bin):$PATH && codedoc build)
           # copy assets
