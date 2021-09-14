@@ -18,7 +18,7 @@ jobs:
           npm install @codedoc/cli
           # build repo
           (PATH=$(npm bin):$PATH && codedoc build)
-          cp docs/assets/favicon.ico dist/
+          cp docs/assets/favicon.ico dist/docs/assets/
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
