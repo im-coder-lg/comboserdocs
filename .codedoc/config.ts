@@ -12,6 +12,11 @@ export const config = /*#__PURE__*/configuration({
     assets: 'dist',
     
   },
+  afterBuild: [
+    function logFinished() {
+      console.log('Build Finished!!!!');
+    }
+  ],
   page: {
     title: {
       base: 'Comboser Docs'                        // --> the base title of your doc pages
