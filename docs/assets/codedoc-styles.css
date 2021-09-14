@@ -28,7 +28,7 @@
   }
   .button-0-0-3 {
     color: white;
-    border: 2px solid #363062;
+    border: 2px solid #1eb2a6;
     cursor: pointer;
     height: 40px;
     margin: 8px;
@@ -37,7 +37,7 @@
     padding: 4px 16px;
     font-size: 16px;
     min-width: 96px;
-    background: #363062;
+    background: #1eb2a6;
     align-items: center;
     margin-right: 0;
     border-radius: 3px;
@@ -60,39 +60,39 @@
     background: rgba(66, 66, 66, 0.35);
   }
   body.dark .button-0-0-3 {
-    color: black;
-    background: #9399ff;
-    border-color: #9399ff;
+    color: white;
+    background: #1eb2a6;
+    border-color: #1eb2a6;
   }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) .button-0-0-3 {
-    color: black;
-    background: #9399ff;
-    border-color: #9399ff;
+    color: white;
+    background: #1eb2a6;
+    border-color: #1eb2a6;
   }
   body:not(.dark-mode-animate) .button-0-0-3[disabled] {
-    color: #142850;
+    color: #212121;
     border: rgba(238, 238, 238, 0.35);
     background: rgba(238, 238, 238, 0.35);
   }
 }
   .button-0-0-3:hover:not([disabled]) {
-    color: #363062;
+    color: #1eb2a6;
     background: transparent;
     text-decoration: none;
   }
   body.dark .button-0-0-3:hover:not([disabled]) {
-    color: #9399ff;
+    color: #1eb2a6;
     background: transparent;
   }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) .button-0-0-3:hover:not([disabled]) {
-    color: #9399ff;
+    color: #1eb2a6;
     background: transparent;
   }
 }
   body.dark .button-0-0-3[disabled] {
-    color: #142850;
+    color: #212121;
     border: rgba(238, 238, 238, 0.35);
     background: rgba(238, 238, 238, 0.35);
   }
@@ -174,11 +174,11 @@ a.button-0-0-3.icon {
   }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) .footer-0-0-6 {
-    background: rgba(20, 40, 80, 0.85);
+    background: rgba(33, 33, 33, 0.85);
   }
 }
   body.dark .footer-0-0-6 {
-    background: rgba(20, 40, 80, 0.85);
+    background: rgba(33, 33, 33, 0.85);
   }
   .footer-0-0-6 .main {
     overflow: hidden;
@@ -210,7 +210,7 @@ a.button-0-0-3.icon {
     border: none;
     height: 16px;
     margin: 16px;
-    background: #cedeff;
+    background: #e0e0e0;
   }
   .footer-0-0-6 .main>.inside a {
     text-decoration: none;
@@ -222,11 +222,11 @@ a.button-0-0-3.icon {
     transition: background .3s;
   }
   body.dark .footer-0-0-6 .main>.inside hr {
-    background: #273467;
+    background: #313131;
   }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) .footer-0-0-6 .main>.inside hr {
-    background: #273467;
+    background: #313131;
   }
 }
   .toc-0-0-7 {
@@ -247,13 +247,13 @@ a.button-0-0-3.icon {
     transition: background .3s, border-color .3s;
   }
   body.dark .toc-0-0-7 {
-    background: #162A5D;
-    border-color: #273467;
+    background: #1f1f1f;
+    border-color: #282828;
   }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) .toc-0-0-7 {
-    background: #162A5D;
-    border-color: #273467;
+    background: #1f1f1f;
+    border-color: #282828;
   }
 }
 @media screen and (max-width: 1200px) {
@@ -296,13 +296,13 @@ a.button-0-0-3.icon {
     border-bottom-right-radius: 0;
   }
   body.dark .toc-0-0-7 a.current {
-    background: hsl(220, 60%, 20%);
-    border-color: #273467;
+    background: hsl(0, 0%, 13.2%);
+    border-color: #282828;
   }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) .toc-0-0-7 a.current {
-    background: #142850;
-    border-color: #273467;
+    background: #212121;
+    border-color: #282828;
   }
 }
 @media screen and (max-width: 1200px) {
@@ -313,11 +313,11 @@ a.button-0-0-3.icon {
   }
 }
   body.dark .toc-0-0-7 a:hover {
-    background: hsl(220, 60%, 20%);
+    background: hsl(0, 0%, 13.2%);
   }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) .toc-0-0-7 a:hover {
-    background: hsl(220, 60%, 20%);
+    background: hsl(0, 0%, 13.2%);
   }
 }
   body.dark-mode-animate .toc-0-0-7.animated {
@@ -344,7 +344,7 @@ a.button-0-0-3.icon {
     position: fixed;
     font-size: 12px;
     max-height: 45vh;
-    border-left: 1px dashed #cedeff;
+    border-left: 1px dashed #e0e0e0;
     margin-left: 64px;
     padding-left: 48px;
     scroll-behavior: initial;
@@ -362,29 +362,29 @@ a.button-0-0-3.icon {
   }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) .contentnav-0-0-10 {
-    border-color: #273467;
+    border-color: #313131;
   }
   body:not(.dark-mode-animate) .contentnav-0-0-10 a {
     color: #eeeeee;
   }
   body:not(.dark-mode-animate) .contentnav-0-0-10 a:hover, body:not(.dark-mode-animate) .contentnav-0-0-10 a.active {
-    color: #9399ff;
+    color: #1eb2a6;
   }
 }
   body.dark .contentnav-0-0-10 {
-    border-color: #273467;
+    border-color: #313131;
   }
   body.dark .contentnav-0-0-10 a {
     color: #eeeeee;
   }
   body.dark .contentnav-0-0-10 a:hover, body.dark .contentnav-0-0-10 a.active {
-    color: #9399ff;
+    color: #1eb2a6;
   }
   body.dark-mode-animate .contentnav-0-0-10 a {
     transition: color .3s, opacity .3s;
   }
   .contentnav-0-0-10 a:hover, .contentnav-0-0-10 a.active {
-    color: #363062;
+    color: #1eb2a6;
     opacity: 1;
   }
   .contentnav-0-0-10 a.h2 {
@@ -421,7 +421,7 @@ body.dark-mode-animate {
   transition: color .3s, background .3s;
 }
 a {
-  color: #363062;
+  color: #1eb2a6;
 }
 a:hover {
   text-decoration: underline;
@@ -432,11 +432,11 @@ body.dark-mode-animate a {
 }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) a {
-    color: #9399ff;
+    color: #1eb2a6;
   }
 }
 body.dark a {
-  color: #9399ff;
+  color: #1eb2a6;
 }
 .container {
   margin: 0 auto;
@@ -457,43 +457,43 @@ table th, table td {
   text-align: left;
 }
 table th {
-  border-bottom: 1px solid #B9C7E3;
+  border-bottom: 1px solid #C8C8C8;
 }
 table td {
-  border-bottom: 1px solid #cedeff;
+  border-bottom: 1px solid #e0e0e0;
 }
 table tr:nth-child(even) {
-  background: #f5f5f5;
+  background: #eeeeee;
   border-radius: 3px;
 }
 table tr:last-child > td {
   border-bottom: none;
 }
 body.dark table tr:nth-child(even) {
-  background: #142850;
+  background: #282828;
 }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) table tr:nth-child(even) {
-    background: #142850;
+    background: #282828;
   }
 }
 body.dark-mode-animate table tr:nth-child(even) {
   transition: background .3s;
 }
 body.dark table td {
-  border-color: #273467;
+  border-color: #313131;
 }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) table td {
-    border-color: #273467;
+    border-color: #313131;
   }
 }
 body.dark table th {
-  border-color: #45507B;
+  border-color: #4D4D4D;
 }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) table th {
-    border-color: #45507B;
+    border-color: #4D4D4D;
   }
 }
 body.dark-mode-animate table th, body.dark-mode-animate table td {
@@ -503,17 +503,17 @@ hr {
   border: none;
   margin: 64px;
   background: none;
-  border-top: 1px solid #cedeff;
+  border-top: 1px solid #e0e0e0;
 }
 body.dark-mode-animate hr {
   transition: border-color .3s;
 }
 body.dark hr {
-  border-color: #273467;
+  border-color: #313131;
 }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) hr {
-    border-color: #273467;
+    border-color: #313131;
   }
 }
 #-codedoc-toc hr {
@@ -525,7 +525,7 @@ blockquote {
   margin: 0;
   padding: 16px 40px;
   position: relative;
-  background: #f5f5f5;
+  background: #eeeeee;
   border-radius: 3px;
 }
 body.dark-mode-animate blockquote {
@@ -548,27 +548,27 @@ body.dark-mode-animate blockquote:after {
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) {
     color: #eeeeee;
-    background: #142850;
+    background: #212121;
   }
   body:not(.dark-mode-animate) blockquote {
     color: #cacaca;
-    background: #142850;
+    background: #282828;
   }
   body:not(.dark-mode-animate) blockquote:after {
-    background: radial-gradient(circle at center, #27496d 50%, transparent 52%),transparent;
+    background: radial-gradient(circle at center, #363636 50%, transparent 52%),transparent;
     background-size: 4px 4px;
   }
 }
 body.dark {
   color: #eeeeee;
-  background: #142850;
+  background: #212121;
 }
 body.dark blockquote {
   color: #cacaca;
-  background: #142850;
+  background: #282828;
 }
 body.dark blockquote:after {
-  background: radial-gradient(circle at center, #27496d 50%, transparent 52%),transparent;
+  background: radial-gradient(circle at center, #363636 50%, transparent 52%),transparent;
   background-size: 4px 4px;
 }
 img {
@@ -581,22 +581,22 @@ iframe {
   border-radius: 3px;
 }
 code {
-  color: #363062;
+  color: #616161;
   padding: 4px;
   font-size: .85em;
-  background: #f5f5f5;
+  background: #eeeeee;
   border-radius: 3px;
 }
 body.dark-mode-animate code {
   transition: color .3s, background .3s;
 }
 body.dark code {
-  color: #9399ff;
-  background: #142850;
+  color: #e0e0e0;
+  background: #282828;
 }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) code {
-    color: #9399ff;
-    background: #142850;
+    color: #e0e0e0;
+    background: #282828;
   }
 }
