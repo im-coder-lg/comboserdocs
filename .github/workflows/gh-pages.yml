@@ -13,9 +13,9 @@ jobs:
       - name: Build
         run: |
           # install .codedoc dependencies
-          (cd .codedoc && npm install)
           # install codedoc
           npm install @codedoc/cli
+          codedoc install
           # build repo
           (PATH=$(npm bin):$PATH && codedoc build)
           cp docs/assets/favicon.ico dist/docs/assets/
