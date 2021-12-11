@@ -2,115 +2,115 @@
   "init": [
     {
       "name": "initJssCs",
-      "filename": "/home/runner/work/docs/docs/.codedoc/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js",
-      "hash": "s1He1x0Kiluf/y8REmwIag=="
+      "filename": "/home/runner/work/comboserdocs/comboserdocs/.codedoc/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js",
+      "hash": "0Q2lWAICbHhoC7E4YZFISg=="
     },
     {
       "name": "installTheme",
-      "filename": "/home/runner/work/docs/docs/.codedoc/content/theme.ts",
-      "hash": "ONRHF+9s9WcA0QCLPdcvpw=="
+      "filename": "/home/runner/work/comboserdocs/comboserdocs/.codedoc/content/theme.ts",
+      "hash": "9a4DaEoOyIWZ9f0bLPocww=="
     },
     {
       "name": "codeSelection",
-      "filename": "/home/runner/work/docs/docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
-      "hash": "p3O/OOjy5zAYy0zzx6nrWQ=="
+      "filename": "/home/runner/work/comboserdocs/comboserdocs/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
+      "hash": "RxS3OZv2x7q6dzAjMaHAog=="
     },
     {
       "name": "sameLineLengthInCodes",
-      "filename": "/home/runner/work/docs/docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js",
-      "hash": "RyS0ohg98P6/QZCDkoyyAg=="
+      "filename": "/home/runner/work/comboserdocs/comboserdocs/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js",
+      "hash": "UB/pwzAQwPRlWVfzH16UCg=="
     },
     {
       "name": "initHintBox",
-      "filename": "/home/runner/work/docs/docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js",
-      "hash": "Iw5dzyYeXxzeIKtTJ29/7A=="
+      "filename": "/home/runner/work/comboserdocs/comboserdocs/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js",
+      "hash": "hPFrvVQbYUEzMF/uU/FKgQ=="
     },
     {
       "name": "initCodeLineRef",
-      "filename": "/home/runner/work/docs/docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-ref/index.js",
-      "hash": "r2uQIprf+1MbYX3sXLTb7w=="
+      "filename": "/home/runner/work/comboserdocs/comboserdocs/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-ref/index.js",
+      "hash": "YucEJEHdRzu8u+Q8umuAgQ=="
     },
     {
       "name": "initSmartCopy",
-      "filename": "/home/runner/work/docs/docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/smart-copy.js",
-      "hash": "gonuM6UaTRTUoi2Eevd7Jw=="
+      "filename": "/home/runner/work/comboserdocs/comboserdocs/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/smart-copy.js",
+      "hash": "YHfGRQmGj5q/KNY+Iz71cA=="
     },
     {
       "name": "copyHeadings",
-      "filename": "/home/runner/work/docs/docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/heading/copy-headings.js",
-      "hash": "yUf9SsIVeul3VzF38jGsig=="
+      "filename": "/home/runner/work/comboserdocs/comboserdocs/.codedoc/node_modules/@codedoc/core/dist/es6/components/heading/copy-headings.js",
+      "hash": "pInqeC3zTQeYB+2oinlIBQ=="
     },
     {
       "name": "contentNavHighlight",
-      "filename": "/home/runner/work/docs/docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/contentnav/highlight.js",
-      "hash": "lcPAhHhNUz9kbvM+q1ZWTA=="
+      "filename": "/home/runner/work/comboserdocs/comboserdocs/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/contentnav/highlight.js",
+      "hash": "gEep15oUjzN1LDkUSYPBrg=="
     },
     {
       "name": "loadDeferredIFrames",
-      "filename": "/home/runner/work/docs/docs/.codedoc/node_modules/@codedoc/core/dist/es6/transport/deferred-iframe.js",
-      "hash": "mDxRf4fq/Yo9mR9sjEIdzg=="
+      "filename": "/home/runner/work/comboserdocs/comboserdocs/.codedoc/node_modules/@codedoc/core/dist/es6/transport/deferred-iframe.js",
+      "hash": "g/UomAKcTwFsz7AGbKzYjA=="
     },
     {
       "name": "smoothLoading",
-      "filename": "/home/runner/work/docs/docs/.codedoc/node_modules/@codedoc/core/dist/es6/transport/smooth-loading.js",
-      "hash": "qnFhulREkOdypUyVGqLjUg=="
+      "filename": "/home/runner/work/comboserdocs/comboserdocs/.codedoc/node_modules/@codedoc/core/dist/es6/transport/smooth-loading.js",
+      "hash": "UfEMELsxJB0qMKa+sHRblg=="
     },
     {
       "name": "tocHighlight",
-      "filename": "/home/runner/work/docs/docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js",
-      "hash": "Qg0osgiDVYTY2nEOpRMgVg=="
+      "filename": "/home/runner/work/comboserdocs/comboserdocs/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js",
+      "hash": "mOibs8sE21g9Gg91lhWkLA=="
     },
     {
       "name": "postNavSearch",
-      "filename": "/home/runner/work/docs/docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
-      "hash": "U/sAzPDMqQZWYRFCGtyz9Q=="
+      "filename": "/home/runner/work/comboserdocs/comboserdocs/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
+      "hash": "uyBaD0rRq2lL0KsKF/zrbw=="
     },
     {
       "name": "copyLineLinks",
-      "filename": "/home/runner/work/docs/docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js",
-      "hash": "E8L3bAGgfKeU2yBZQDdkoA=="
+      "filename": "/home/runner/work/comboserdocs/comboserdocs/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js",
+      "hash": "9oLL3qrI7ba5+YnoF/IXSg=="
     },
     {
       "name": "gatherFootnotes",
-      "filename": "/home/runner/work/docs/docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js",
-      "hash": "VT9kjLSj09kbp+7u7QAxIw=="
+      "filename": "/home/runner/work/comboserdocs/comboserdocs/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js",
+      "hash": "sVPN6SZGrV3L/MCK2Lgzgg=="
     }
   ],
   "components": [
     {
       "name": "ToCPrevNext",
-      "filename": "/home/runner/work/docs/docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
-      "hash": "h7smMF/VsWVW7P5N7MOSNA=="
+      "filename": "/home/runner/work/comboserdocs/comboserdocs/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
+      "hash": "ihgnLwJENwTmRcWzvE079Q=="
     },
     {
       "name": "GithubSearch",
-      "filename": "/home/runner/work/docs/docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js",
-      "hash": "PfXATFqFr23OoTubEQt6vQ=="
+      "filename": "/home/runner/work/comboserdocs/comboserdocs/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js",
+      "hash": "OiDm6DkqCG1+lIhBcMSmdg=="
     },
     {
       "name": "ToCToggle",
-      "filename": "/home/runner/work/docs/docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
-      "hash": "x7C0LCI6paKTeYeOkoEYMQ=="
+      "filename": "/home/runner/work/comboserdocs/comboserdocs/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
+      "hash": "KBQ+/c1Bi1QWc3TYr3kTkg=="
     },
     {
       "name": "GitterToggle",
-      "filename": "/home/runner/work/docs/docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/gitter/index.js",
-      "hash": "EVFhS5IuxXlO3n5MuOf4wQ=="
+      "filename": "/home/runner/work/comboserdocs/comboserdocs/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/gitter/index.js",
+      "hash": "dtrxFQD5gfa+jHrZwnattQ=="
     },
     {
       "name": "DarkModeSwitch",
-      "filename": "/home/runner/work/docs/docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js",
-      "hash": "ydOT30OH8OhdZRvGCPz8BQ=="
+      "filename": "/home/runner/work/comboserdocs/comboserdocs/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js",
+      "hash": "Zis/r0Vv/j414CHN4GVOgg=="
     },
     {
       "name": "ConfigTransport",
-      "filename": "/home/runner/work/docs/docs/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
-      "hash": "kL9atIC7mpqcSjBja2l5iw=="
+      "filename": "/home/runner/work/comboserdocs/comboserdocs/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
+      "hash": "hTkwq4g0q5XPnIAMW/0csQ=="
     }
   ],
   "renderer": {
     "name": "getRenderer",
-    "filename": "/home/runner/work/docs/docs/.codedoc/node_modules/@codedoc/core/dist/es6/transport/renderer.js",
-    "hash": "/pYZHTSgQnWv67j3tVx9WQ=="
+    "filename": "/home/runner/work/comboserdocs/comboserdocs/.codedoc/node_modules/@codedoc/core/dist/es6/transport/renderer.js",
+    "hash": "EPYZpLi1PjeE++9vxyoobA=="
   }
 }
